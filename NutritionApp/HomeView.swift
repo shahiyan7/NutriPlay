@@ -1,10 +1,40 @@
 import SwiftUI
 let sampleRecipes = [
-    Recipe(name: "Waffles", imageName: "waffles", ingredients: ["Pasta", "Tomato Sauce", "Cheese"]),
-    Recipe(name: "Pizza", imageName: "pizza", ingredients: ["Pizza Dough", "Tomato Sauce", "Cheese", "Toppings"]),
-    Recipe(name: "Cake", imageName: "cake", ingredients: ["Pasta", "Tomato Sauce", "Cheese"]),
-    Recipe(name: "juice", imageName: "watermelonJuice", ingredients: ["Pasta", "Tomato Sauce", "Cheese"]),
-    Recipe(name: "Salat", imageName: "salat", ingredients: ["Pasta", "Tomato Sauce", "Cheese"]),
+    Recipe(name: "Waffles", imageName: "waffles", ingredients: ["Pasta", "Tomato Sauce", "Cheese"],recipeSteps: [
+        "Mix all dry ingredients in a bowl.",
+        "Add milk, oil, eggs, and vanilla extract. Mix until smooth.",
+        "Heat waffle iron and pour batter onto it.",
+        "Cook until golden brown and crisp.",
+        "Serve and enjoy your delicious waffles!"
+    ]),
+    Recipe(name: "Pizza", imageName: "pizza", ingredients: ["Pizza Dough", "Tomato Sauce", "Cheese", "Toppings"],recipeSteps: [
+        "Mix all dry ingredients in a bowl.",
+        "Add milk, oil, eggs, and vanilla extract. Mix until smooth.",
+        "Heat waffle iron and pour batter onto it.",
+        "Cook until golden brown and crisp.",
+        "Serve and enjoy your delicious waffles!"
+    ]),
+    Recipe(name: "Cake", imageName: "cake", ingredients: ["Pasta", "Tomato Sauce", "Cheese"],recipeSteps: [
+        "Mix all dry ingredients in a bowl.",
+        "Add milk, oil, eggs, and vanilla extract. Mix until smooth.",
+        "Heat waffle iron and pour batter onto it.",
+        "Cook until golden brown and crisp.",
+        "Serve and enjoy your delicious waffles!"
+    ]),
+    Recipe(name: "juice", imageName: "watermelonJuice", ingredients: ["Pasta", "Tomato Sauce", "Cheese"],recipeSteps: [
+        "Mix all dry ingredients in a bowl.",
+        "Add milk, oil, eggs, and vanilla extract. Mix until smooth.",
+        "Heat waffle iron and pour batter onto it.",
+        "Cook until golden brown and crisp.",
+        "Serve and enjoy your delicious waffles!"
+    ]),
+    Recipe(name: "Salat", imageName: "salat", ingredients: ["Pasta", "Tomato Sauce", "Cheese"],recipeSteps: [
+        "Mix all dry ingredients in a bowl.",
+        "Add milk, oil, eggs, and vanilla extract. Mix until smooth.",
+        "Heat waffle iron and pour batter onto it.",
+        "Cook until golden brown and crisp.",
+        "Serve and enjoy your delicious waffles!"
+    ]),
     // Add more sample recipes as needed
 ]
 
