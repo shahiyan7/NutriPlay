@@ -21,7 +21,7 @@ Engage kids in a delightful food selection game where they can choose ingredient
 ## Screenshots
 
  |<img src="Simulator Screenshot - iPhone 14 Pro - 2024-02-24 at 23.53.52.png" width="250" >|<img src="Simulator Screenshot - iPhone 14 Pro - 2024-02-24 at 23.54.43.png" width="250"> |<img src="Simulator Screenshot - iPhone 14 Pro - 2024-02-24 at 23.54.55.png" width="250"> |
-<img src="Simulator Screenshot - iPhone 14 Pro - 2024-02-24 at 23.55.06.png" width="250"> |<img src="Simulator Screenshot - iPhone 14 Pro - 2024-02-24 at 23.55.15.png" width="250"> |<img src="Simulator Screenshot - iPhone 14 Pro - 2024-02-24 at 23.54.43.png" width="250"> |
+<img src="Simulator Screenshot - iPhone 14 Pro - 2024-02-24 at 23.55.06.png" width="250"> |<img src="Simulator Screenshot - iPhone 14 Pro - 2024-02-24 at 23.55.15.png" width="250"> |<img src="Simulator Screenshot - iPhone 14 Pro - 2024-02-25 at 23.04.15.png" width="250"> |
 
 
 
